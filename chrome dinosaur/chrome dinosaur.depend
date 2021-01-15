@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537764997 source:d:\shaohua\documents\chrome dinosaur\main.c
+	<stdio.h>
+	<stdlib.h>
+

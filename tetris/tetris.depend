@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1535812131 source:d:\shaohua\documents\tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<conio.h>
+

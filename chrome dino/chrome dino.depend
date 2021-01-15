@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1537801415 source:d:\shaohua\documents\chrome dino\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+

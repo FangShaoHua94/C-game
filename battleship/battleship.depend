@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544353103 source:d:\shaohua\documents\battleship\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	<time.h>
+
